@@ -1,0 +1,30 @@
+body{
+    background-color: darkcyan;
+    font-size: medium;
+    font-family:sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+   
+}
+
+h1{
+    color: black;
+    background-color: rgb(240, 183, 108);  
+    text-shadow: 0cqb;  
+    text-decoration: underline;
+}
+
+header{
+    text-align: left;
+    text-decoration: wavy;
+}
+
+div{
+    text-align: left;
+}
+
+h3{
+    background-color: rgb(233, 208, 176);
+    color: white;
+}
