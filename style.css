@@ -1,18 +1,21 @@
-body{
-    background-color: darkcyan;
+.header{
+    font-family: serif;       
+}
+
+ody{
+    font-family: Helvetica;
+    background:radial-gradient(rgb(248, 247, 245),rgb(231, 167, 130));
     font-size: medium;
-    font-family:sans-serif;
-    font-weight: bold;
-    color: white;
+    color: rgb(9, 9, 9);
     text-align: center;
-   
+    border-style: solid;
+
 }
 
 h1{
-    color: black;
-    background-color: rgb(240, 183, 108);  
-    text-shadow: 0cqb;  
+    color: black; 
     text-decoration: underline;
+    border-style: solid;
 }
 
 header{
@@ -25,6 +28,12 @@ div{
 }
 
 h3{
-    background-color: rgb(233, 208, 176);
+    border-style: solid;
+    background-color: black;
     color: white;
+}
+
+div {
+  padding: 70px;
+  border: 1px solid #040604;
 }
